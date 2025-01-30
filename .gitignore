@@ -1,0 +1,5 @@
+output/
+proxy
+*.o
+.vscode/
+test.c
